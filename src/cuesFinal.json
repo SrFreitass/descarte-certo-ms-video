@@ -1,0 +1,23 @@
+{
+  "cena.pontos": {"t": 44.3, "sfx": "whoosh", "db": -16},
+  "cena.como": {"t": 71.9, "sfx": "whoosh", "db": -16},
+  "cena.gaveta": {"t": 79.6, "sfx": "whoosh", "db": -16},
+  "cena.estudos": {"t": 90.8, "sfx": "whoosh", "db": -16},
+  "cena.recap": {"t": 101.2, "sfx": "whoosh", "db": -16},
+  "cena.credits": {"t": 112.0, "sfx": "whoosh", "db": -17},
+  "clique.chip": {"t": 48.6, "sfx": "pop", "db": -20},
+  "clique.ponto": {"t": 50.4, "sfx": "pop", "db": -20},
+  "clique.mapa": {"t": 55.4, "sfx": "pop", "db": -18},
+  "modal.abre": {"t": 55.7, "sfx": "sparkle", "db": -22},
+  "clique.fechar": {"t": 60.5, "sfx": "pop", "db": -22},
+  "clique.chip2": {"t": 64.5, "sfx": "pop", "db": -20},
+  "clique.atalho": {"t": 77.8, "sfx": "pop", "db": -20},
+  "clique.tv": {"t": 83.0, "sfx": "pop", "db": -20},
+  "clique.lampada": {"t": 84.4, "sfx": "pop", "db": -20},
+  "recap.panfletos": {"t": 106.7, "sfx": "pop", "db": -17},
+  "recap.site": {"t": 107.4, "sfx": "pop", "db": -17},
+  "recap.whatsapp": {"t": 108.6, "sfx": "pop", "db": -17},
+  "recap.especialistas": {"t": 110.6, "sfx": "pop", "db": -17},
+  "credits.obrigado": {"t": 113.6, "sfx": "sparkle", "db": -15},
+  "credits.participantes": {"t": 115.6, "sfx": "pop", "db": -20}
+}
